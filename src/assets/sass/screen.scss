@@ -1,0 +1,78 @@
+@import "../../../node_modules/font-awesome/scss/font-awesome";
+@import "../bootstrap/variables";
+@import "../bootstrap/mixins";
+@import "../bootstrap/tables";
+@import "bourbon/bourbon";
+@import "lib/mixin";
+@import "lib/basic";
+@import "lib/ie-warning";
+
+.table {
+  border-collapse: collapse;
+  border-width: 1px;
+}
+
+@media screen and (max-width: 320px) {
+  .table td {
+    padding: 2px !important;
+  }
+  .fz-14 {
+    font-size: 12px !important;
+  }
+}
+
+.table-view {
+  width: 100%;
+  overflow-x: auto;
+
+  td {
+    padding: 4px !important;
+    width: 28vw;
+    height: 20px;
+  }
+}
+
+.fixed-table-left {
+  width: 30vw;
+  position: absolute;
+  background: #fff;
+}
+
+.fixed-table-content {
+  table-layout: fixed !important;
+
+  tr {
+    td {
+      &:nth-child(1) {
+        border-right: none !important;
+      }
+
+      &:nth-child(2) {
+        border-left: none !important;
+      }
+    }
+  }
+}
+
+.no-chart-data {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.fb300 {
+  font-weight: 300;
+}
+
+.vertical-m {
+  vertical-align: middle !important;
+}
+
+.left-table-head,.content-table-head {
+  height: 50px !important;
+}
+
+.c000{
+  color: #000;
+}

@@ -1,0 +1,255 @@
+{
+  "code": 200,
+  "result": [
+    {
+      "ssfgs": "东北大区",
+      "periodic": {
+        "yyts": 441,
+        "fjgztytc": 1,
+        "fjjxtytc": 1,
+        "fjsltytc": 11,
+        "bkkltytc": 0,
+        "fdjzztytc": 13,
+        "fjfdl": 5762816,
+        "fjxdl": 610386,
+        "xfhl": 10.591800952867487
+      },
+      "ytd": {
+        "yyts": 25578,
+        "fjgztytc": 13,
+        "fjjxtytc": 23,
+        "fjsltytc": 156,
+        "bkkltytc": 0,
+        "fdjzztytc": 192,
+        "fjfdl": 236516688,
+        "fjxdl": 67595436,
+        "xfhl": 28.579563062374692
+      }
+    },
+    {
+      "ssfgs": "中西大区",
+      "periodic": {
+        "yyts": 227,
+        "fjgztytc": 3,
+        "fjjxtytc": 5,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 8,
+        "fjfdl": 481252.36,
+        "fjxdl": 0,
+        "xfhl": 0
+      },
+      "ytd": {
+        "yyts": 12878,
+        "fjgztytc": 9,
+        "fjjxtytc": 18,
+        "fjsltytc": 0,
+        "bkkltytc": 2,
+        "fdjzztytc": 29,
+        "fjfdl": 100493710.36000003,
+        "fjxdl": 22723224,
+        "xfhl": 22.611588246267626
+      }
+    },
+    {
+      "ssfgs": "北方大区",
+      "periodic": {
+        "yyts": 546,
+        "fjgztytc": 1,
+        "fjjxtytc": 15,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 16,
+        "fjfdl": 7079928,
+        "fjxdl": 1255862,
+        "xfhl": 17.73834423174925
+      },
+      "ytd": {
+        "yyts": 31738,
+        "fjgztytc": 2,
+        "fjjxtytc": 15,
+        "fjsltytc": 0,
+        "bkkltytc": 37,
+        "fdjzztytc": 54,
+        "fjfdl": 373882154.72,
+        "fjxdl": 118817206,
+        "xfhl": 31.77931990067354
+      }
+    },
+    {
+      "ssfgs": "华东大区",
+      "periodic": {
+        "yyts": 470,
+        "fjgztytc": 0,
+        "fjjxtytc": 11,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 11,
+        "fjfdl": 7142852.1,
+        "fjxdl": 0,
+        "xfhl": 0
+      },
+      "ytd": {
+        "yyts": 25510,
+        "fjgztytc": 16,
+        "fjjxtytc": 36,
+        "fjsltytc": 1,
+        "bkkltytc": 0,
+        "fdjzztytc": 53,
+        "fjfdl": 365115199.14999986,
+        "fjxdl": 1451800,
+        "xfhl": 0.3976279276731941
+      }
+    },
+    {
+      "ssfgs": "华中大区",
+      "periodic": {
+        "yyts": 335,
+        "fjgztytc": 1,
+        "fjjxtytc": 19,
+        "fjsltytc": 11,
+        "bkkltytc": 0,
+        "fdjzztytc": 31,
+        "fjfdl": 1553455,
+        "fjxdl": 0,
+        "xfhl": 0
+      },
+      "ytd": {
+        "yyts": 19214,
+        "fjgztytc": 9,
+        "fjjxtytc": 107,
+        "fjsltytc": 48,
+        "bkkltytc": 396,
+        "fdjzztytc": 560,
+        "fjfdl": 210163525.79999998,
+        "fjxdl": 776625,
+        "xfhl": 0.36953367481047467
+      }
+    },
+    {
+      "ssfgs": "华北大区",
+      "periodic": {
+        "yyts": 195,
+        "fjgztytc": 0,
+        "fjjxtytc": 0,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 0,
+        "fjfdl": 1899404,
+        "fjxdl": 133000,
+        "xfhl": 7.002196478474301
+      },
+      "ytd": {
+        "yyts": 11310,
+        "fjgztytc": 2,
+        "fjjxtytc": 0,
+        "fjsltytc": 0,
+        "bkkltytc": 113,
+        "fdjzztytc": 115,
+        "fjfdl": 116203254,
+        "fjxdl": 6863627,
+        "xfhl": 5.906570396040717
+      }
+    },
+    {
+      "ssfgs": "华南大区",
+      "periodic": {
+        "yyts": 696,
+        "fjgztytc": 2,
+        "fjjxtytc": 33,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 35,
+        "fjfdl": 7621614,
+        "fjxdl": 0,
+        "xfhl": 0
+      },
+      "ytd": {
+        "yyts": 39101,
+        "fjgztytc": 29,
+        "fjjxtytc": 90,
+        "fjsltytc": 5,
+        "bkkltytc": 43,
+        "fdjzztytc": 167,
+        "fjfdl": 366911903.4,
+        "fjxdl": 114055,
+        "xfhl": 0.03108511851022166
+      }
+    },
+    {
+      "ssfgs": "江苏大区",
+      "periodic": {
+        "yyts": 33,
+        "fjgztytc": 0,
+        "fjjxtytc": 1,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 1,
+        "fjfdl": 76992,
+        "fjxdl": 0,
+        "xfhl": 0
+      },
+      "ytd": {
+        "yyts": 1914,
+        "fjgztytc": 0,
+        "fjjxtytc": 4,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 4,
+        "fjfdl": 23586191,
+        "fjxdl": 885752,
+        "xfhl": 3.7553838175905554
+      }
+    },
+    {
+      "ssfgs": "西南大区",
+      "periodic": {
+        "yyts": 55,
+        "fjgztytc": 0,
+        "fjjxtytc": 2,
+        "fjsltytc": 0,
+        "bkkltytc": 0,
+        "fdjzztytc": 2,
+        "fjfdl": 322410,
+        "fjxdl": 0,
+        "xfhl": 0
+      },
+      "ytd": {
+        "yyts": 2403,
+        "fjgztytc": 2,
+        "fjjxtytc": 2,
+        "fjsltytc": 0,
+        "bkkltytc": 55,
+        "fdjzztytc": 59,
+        "fjfdl": 24857060,
+        "fjxdl": 0,
+        "xfhl": 0
+      }
+    },
+    {
+      "ssfgs": "公司整体情况",
+      "periodic": {
+        "yyts": 2998,
+        "fjgztytc": 8,
+        "fjjxtytc": 87,
+        "fjsltytc": 22,
+        "bkkltytc": 0,
+        "fdjzztytc": 117,
+        "fjfdl": 31940723.46,
+        "fjxdl": 1999248,
+        "xfhl": 6.25924457379213
+      },
+      "ytd": {
+        "yyts": 169646,
+        "fjgztytc": 82,
+        "fjjxtytc": 295,
+        "fjsltytc": 210,
+        "bkkltytc": 646,
+        "fdjzztytc": 1233,
+        "fjfdl": 1817729686.4299998,
+        "fjxdl": 219227725,
+        "xfhl": 6.25924457379213
+      }
+    }
+  ]
+}
